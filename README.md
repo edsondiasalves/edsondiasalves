@@ -1,9 +1,6 @@
 ### E aí beleza? 👋
 
-<!--
-**edsondiasalves/edsondiasalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Brazilian DotNet developer living in Portugal and learning Dart/Flutter
 
 - 🔭 I’m currently working on Atlas Multimap provider for Google, Here and Mapbox 
 - 🌱 I’m currently learning Flutter and Dart
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Facebook or Instagram
 - 😄 Pronouns: He/Him/His/Ele/Dele/Lui ...
 - ⚡ Fun fact: "E aí beleza?" is a Brazilian slang that means "Hey, Whats up!"
--->
