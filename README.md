@@ -7,6 +7,6 @@ I am a Brazilian DotNet developer living in Portugal and learning Dart/Flutter
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with My Atlas Multimap provider
 - 💬 Ask me about how good I am at Fifa
-- 📫 How to reach me: Facebook or Instagram
+- 📫 How to reach me: [Facebook](https://www.facebook.com/edsondiasalves/) or [Instagram](https://www.instagram.com/edsondiasalves/)
 - 😄 Pronouns: He/Him/His/Ele/Dele/Lui ...
 - ⚡ Fun fact: "E aí beleza?" is a Brazilian slang that means "Hey, Whats up!"
